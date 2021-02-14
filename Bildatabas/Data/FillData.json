@@ -1,0 +1,46 @@
+[
+{
+"Year":2014,
+"EngineType":0,
+"ManufacturerName":"Mazda",
+"Model":"6 Skyactiv",
+"Price":30000.0,
+"Dealer":{
+"Name":"Star Motors",
+"City":"Skövde"
+}
+},
+{
+"Year":2008,
+"EngineType":1,
+"ManufacturerName":"BMW",
+"Model":"320i Cabrio",
+"Price":90000.0,
+"Dealer":{
+  "Name": "MM Auto",
+"City":"Göteborg"
+}
+},
+{
+"Year":2003,
+"EngineType":0,
+"ManufacturerName":"Renault",
+"Model":"Clio 1.4",
+"Price":55000.0,
+"Dealer":{
+"Name":"Bilia",
+"City":"Uddevalla"
+}
+},
+{
+"Year":1997,
+"EngineType":0,
+"ManufacturerName":"Opel",
+"Model":"Tigra",
+"Price":25000.0,
+"Dealer":{
+"Name":"MM Auto",
+"City":"Göteborg"
+}
+}
+]
